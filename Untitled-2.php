@@ -1,4 +1,4 @@
 <?php
     $let = 20;
-    $value = 40;
+    // $value = 40;
 ?>
